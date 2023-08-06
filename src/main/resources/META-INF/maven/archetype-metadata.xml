@@ -12,16 +12,13 @@
             <directory>Archive</directory>
         </fileSet>
         <fileSet>
-            <directory>KickOff_ProjectInception</directory>
+            <directory>KickOff_Inception</directory>
         </fileSet>
         <fileSet>
-            <directory>AccountManagement</directory>
+            <directory>Account</directory>
         </fileSet>
         <fileSet>
-            <directory>AccountManagement/Offers</directory>
-        </fileSet>
-        <fileSet>
-            <directory>AccountManagement/OrgaCharts</directory>
+            <directory>Account/Opportunities</directory>
         </fileSet>
         <fileSet>
             <directory>PMO</directory>
@@ -45,10 +42,7 @@
             <directory>PMO/Reporting/Decisions</directory>
         </fileSet>
         <fileSet>
-            <directory>Meetings</directory>
-        </fileSet>
-        <fileSet>
-            <directory>CommunicationPlan</directory>
+            <directory>PMO/ProjectCommunications</directory>
         </fileSet>
     </fileSets>
 </archetype-descriptor>
